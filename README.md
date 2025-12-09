@@ -1,5 +1,11 @@
 # 🧠 Practical LLM Apps
 
+<p align="center">
+  <a href="assets/practical-llm-apps-banner.png">
+    <img src="assets/practical-llm-apps-banner.png" alt="Practical LLM Apps banner" />
+  </a>
+</p>
+
 Real, production-minded LLM apps you can clone, run, and adapt in under an hour.
 
 <p align="left">
